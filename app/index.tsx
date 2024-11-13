@@ -1,6 +1,6 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { SafeAreaView } from "react-native";
-import PsychologistDirectory from "./components/PsychologistDirectory";
+import PsychologistDirectory from "../src/components/PsychologistDirectory";
 import styled from "styled-components/native";
 import { StatusBar } from "expo-status-bar";
 
